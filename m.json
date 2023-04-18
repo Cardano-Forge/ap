@@ -3,5 +3,6 @@
 "name": "anvil",
 "description": "Building tools for Cardano",
 "ticker": "ANVIL",
-"homepage": "https://ada-anvil.io"
+"homepage": "https://ada-anvil.io",
+"extended": "https://raw.githubusercontent.com/Cardano-Forge/ap/main/extended.json"
 }
