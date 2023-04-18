@@ -1,0 +1,16 @@
+{
+   "info":{
+      "url_png_icon_64x64":"https://raw.githubusercontent.com/Cardano-Forge/ap/main/anvil-logo.png",
+      "url_png_logo":"https://raw.githubusercontent.com/Cardano-Forge/ap/main/anvil-logo.png",
+      "location":"Québec, Canada",
+      "social":{
+         "twitter_handle":"ada_anvil",
+         "discord_handle":"agjD5mwZ"
+      },
+      "about":{
+         "me":"Ada Anvil provides advanced solutions for Web3 projects via a variety of services. Visit our website to learn more. Stake with ANVIL to support! DMs are open!!",
+         "server":"Ubuntu 20.04 LTS",
+         "company":"Anvil Development Agency Inc."
+      }
+   }
+}
